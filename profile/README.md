@@ -1,19 +1,18 @@
-## Next Generation PaaS
+# Next Generation PaaS
 
-#### Built with existing CNCF Projects
+### Built with existing CNCF Projects
 
 
-### Design Goals
+## Design Goals
 
-#### Great Developer Experience
+### Great Developer Experience
 
-##### Single Command Push for Short Learning Curve
+#### Single Command Push for Short Learning Curve
 
-#### Leverage Upstream Projects
+### Leverage Upstream Projects
 
-##### Use well known and supportable off-the-shelf projects
+#### Use well known and supportable off-the-shelf projects
 
-#### Kubernetes native
+### Kubernetes native
 
-##### Leverage Kubernetes to give a strong Operator Experience and
-flexibility
+#### Leverage Kubernetes to give a strong Operator Experience and flexibility
